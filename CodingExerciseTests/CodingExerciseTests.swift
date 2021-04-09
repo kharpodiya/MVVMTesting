@@ -2,8 +2,8 @@
 //  CodingExerciseTests.swift
 //  CodingExerciseTests
 //
-//  Created by Nick Konieczko on 6/8/20.
-//  Copyright © 2020 Rise Buildings. All rights reserved.
+//  Created by Bigstep Technologies on 6/8/20.
+//  Copyright © 2020 Bigstep Technologies. All rights reserved.
 //
 
 import XCTest
